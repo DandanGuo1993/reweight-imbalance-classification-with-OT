@@ -1,6 +1,6 @@
 # reweight-imbalance-classification-with-OT
 
-Code for  "Learning to Re-weight Examples with Optimal Transport for Imbalanced Classification", submitted to NeurIPS 2022.
+Code for  "Learning to Re-weight Examples with Optimal Transport for Imbalanced Classification", in NeurIPS 2022.
 
 
 Requirements:

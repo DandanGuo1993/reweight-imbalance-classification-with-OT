@@ -43,7 +43,7 @@ providing a promising tool for addressing the imbalanced classification issue.
 
 
 
-@inproceedings{zhou2022dataset,
+@inproceedings{Guo2022reweight,
 title={Learning to Re-weight Examples with Optimal Transport for Imbalanced Classification},
 author={Guo, Dandan and Li, Zhuo and Zheng, Meixi and Zhao, He and Zhou, Mingyuan and Zha, Hongyuan},
 booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},

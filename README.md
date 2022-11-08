@@ -15,7 +15,7 @@ numpy 1.19.2
 
 Stage1: 
 
-Pretrain the backbone with the imbalanced training set. See submitted version for more detailes.
+Pretrain the backbone with the imbalanced training set. See paper for more detailes.
 
 Adjust your file path according to the code.
 
@@ -23,6 +23,7 @@ Stage2:
 
 Learn the weight vector by optimizing OT loss and update the recognition model.
 Run: OT_train.py
+
 
 Abstract: Imbalanced data pose challenges for deep learning based classification models. One
 of the most widely-used approaches for tackling imbalanced data is re-weighting,
